@@ -1,6 +1,3 @@
-third_party {
-  # would be NOTICE save for:
-  #   templates/
-  #   templates-sdk/
-  license_type: RESTRICTED
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:464f512f6a3751cb84b531893990acf1be762ae7fc7e8e71e425da69318efe42
+size 111
